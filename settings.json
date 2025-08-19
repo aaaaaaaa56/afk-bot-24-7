@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "tilapia.aternos.host:61072", 
+    "ip": "bandar110.aternos.me", 
     "port": 61072,   
     "version": "1.12.8"   
   },
