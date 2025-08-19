@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "AFKBot", 
+    "username": "3mk3zoz", 
     "password": "",
     "type": "offline"
   },
@@ -8,7 +8,7 @@
   "server": {
     "ip": "Tyrox_x.aternos.me", 
     "port": 48211,   
-    "version": "1.12.1"   
+    "version": "1.12.8"   
   },
 
   "position": {
